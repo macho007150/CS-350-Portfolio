@@ -1,2 +1,17 @@
 # CS-350-Portfolio
 SNHU CS-350 Emerging Systems Architectures and Technologies
+Project Reflection
+
+Throughout CS-350, I gained hands-on experience working with embedded systems using a Raspberry Pi and Python programming. For my portfolio, I selected the Module Five Input With Buttons milestone and the Module Seven Thermostat Final Project. Both projects helped me better understand how software and hardware communicate with one another to perform specific tasks. The overall goal was to develop functional programs that could interact with hardware components while improving my understanding of emerging systems architectures and technologies.
+
+One thing I believe I did particularly well was remaining patient and determined whenever I encountered challenges. Working with the Raspberry Pi was a new experience for me, and there were times when things did not go as planned. For example, I experienced difficulties with the LCD display because my hardware setup was different from the instructions provided. However, I took the time to review my connections, make adjustments, and communicate with my professor whenever I needed clarification. Eventually, I was able to get everything working correctly, which helped build my confidence in troubleshooting technical issues.
+
+Although I made progress throughout this course, I believe there are still areas where I can improve. One area I would like to focus on is becoming more comfortable identifying errors independently, especially when working with unfamiliar hardware components. I also want to continue strengthening my Python programming skills and improving how I approach debugging. I believe that gaining more hands-on experience will help me become more efficient and confident when working on future projects.
+
+Throughout these projects, I expanded my support network by utilizing course resources, technical documentation, and communicating with my professor when necessary. I also learned the importance of researching unfamiliar concepts and reviewing examples to better understand how different components function. Having access to these resources made it easier to overcome challenges and continue making progress.
+
+The skills I developed throughout CS-350 will be useful in future coursework and professional opportunities. In particular, Python programming, troubleshooting, critical thinking, and understanding how software interacts with hardware are all skills that can transfer to other areas of computer science. I also gained a better understanding of how important patience and adaptability are when working with technology, especially when something does not work as expected.
+
+Lastly, I worked toward making my projects maintainable, readable, and adaptable by keeping my code organized and following a consistent structure throughout development. I also learned that testing different components and making adjustments along the way can help identify problems before they become more complicated. Having readable and organized code makes it easier to revisit a project, understand how everything works, and make improvements when necessary.
+
+Overall, CS-350 was a valuable learning experience that introduced me to technologies I had very little experience with before. Although some assignments were challenging, I am proud of the progress I made and the knowledge I gained throughout the course. I look forward to applying these skills to future projects as I continue pursuing my degree in computer science.
